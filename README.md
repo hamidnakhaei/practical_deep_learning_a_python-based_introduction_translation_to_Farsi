@@ -1,0 +1,1 @@
+# practical_deep_learning_a_python-based_introduction_translation_to_Farsi
